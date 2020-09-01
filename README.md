@@ -24,7 +24,7 @@ The datasets used are obtained from the <a href='https://github.com/CSSEGISandDa
 6. Reference
 
 ### Files:
-1. <a href='./Covid-19_Forecast.ipynb'>Covid-19_Forecast</a> is the <b>main project report</b>. It contains the objective and motivation of the project as well as all results and analysis process. It does not contain any code.
+1. <a href='https://nbviewer.jupyter.org/github/Ariel-Yeung/COVID-19_forecast/blob/master/Covid-19_Forecast.ipynb#r1' target='_blank'>Covid-19_Forecast</a> is the <b>main project report</b>. It contains the objective and motivation of the project as well as all results and analysis process. It does not contain any code.
 2. <a href='./project_scoping_preprocessing_EDA.ipynb'>project_scoping_preprocessing_EDA</a> contains the project proposal and codes for data pre-processing and exploratory data analysis.
 3. <a href='./ARIMA_model.ipynb'>ARIMA_model</a> uses the ARIMA model to train and predict COVID-19 confirmed and death case counts in the US.
 4. <a href='./linear_regression_US.ipynb'>linear_regression_US</a> uses the linear regression model to train and predict COVID-19 confirmed and death case counts in the US.
